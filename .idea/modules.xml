@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../source/hmg-ecore-commonlib-develop/commonlib.iml" filepath="$PROJECT_DIR$/../../source/hmg-ecore-commonlib-develop/commonlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../source/hmg-ecore-contract-develop/contract.iml" filepath="$PROJECT_DIR$/../../source/hmg-ecore-contract-develop/contract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../source/hmg-ecore-goods-develop/goods.iml" filepath="$PROJECT_DIR$/../../source/hmg-ecore-goods-develop/goods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../source/hmg-ecore-marketing-develop/marketing.iml" filepath="$PROJECT_DIR$/../../source/hmg-ecore-marketing-develop/marketing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../source/hmg-ecore-member-develop/member.iml" filepath="$PROJECT_DIR$/../../source/hmg-ecore-member-develop/member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../source/hmg-ecore-system-develop/system.iml" filepath="$PROJECT_DIR$/../../source/hmg-ecore-system-develop/system.iml" />
+    </modules>
+  </component>
+</project>
